@@ -1,0 +1,59 @@
+
+#Denmark{
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-right:5px;
+  height: 37px;
+  width: 40px;
+  position: relative;
+  bottom: 6px;
+  left: -3px;
+}
+
+	div:nth-child(1) {
+ 	display: grid;
+ 	 background-color: red;
+ 	 width: 60px;
+ 	 height: 60px;
+ 	 position:fixed;
+ 	 top: 150px ;
+ 	 left: 5px;
+	}
+
+ 	div:nth-child(2) {
+ 	display: grid;
+ 	 background-color: red;
+ 	 width: 60px;
+ 	 height: 60px;
+ 	 position:fixed;
+ 	 top: 215px;
+ 	 left: 75px;
+ 	
+	}
+
+	div:nth-child(3) {
+ 	display: grid;
+ 	 background-color: red;
+ 	 width: 90px;
+ 	 height: 60px;
+ 	 position:fixed;
+ 	 top: 150px;
+ 	 left: 75px;
+ 	 
+	}
+
+	 div:nth-child(4) {
+ 	 display: grid;
+ 	 background-color: red;
+ 	 width: 20px;
+ 	 height: 105px;
+ 	 position:fixed;
+ 	 top: 150px;
+ 	 left: 55px;
+ 	}
+ 
+
+body {background-color: white;}
+
+ 	 
+
